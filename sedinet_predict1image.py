@@ -190,4 +190,4 @@ if __name__ == '__main__':
             print(var+": %f" % (result[counter]))
             counter +=1
     else:
-        print(vars[0]+": %f" % (result))
+        print(vars[0]+": %f" % (result[0]))
